@@ -110,7 +110,7 @@ const Navbar = () => {
           {/* Resume Download (Desktop) */}
           <div className="hidden sm:block">
             <a
-              href="https://drive.google.com/file/d/10Xtcq4w10F_-3nIeAIS5hGo5XS8YBsGt/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1q1bGZYHh1C5aS3i07PgaeevAzbrJDRTZ/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 border border-brand-blue/40 text-sm font-medium rounded-lg text-white bg-brand-blue/5 hover:bg-brand-blue/20 hover:border-brand-blue transition-all duration-300 shadow-sm gap-2"
@@ -171,7 +171,7 @@ const Navbar = () => {
 
             <div className="mt-auto">
               <a
-                href="https://drive.google.com/file/d/10Xtcq4w10F_-3nIeAIS5hGo5XS8YBsGt/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1q1bGZYHh1C5aS3i07PgaeevAzbrJDRTZ/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full text-center inline-flex items-center justify-center px-4 py-3 border border-brand-blue/40 text-base font-medium rounded-lg text-white bg-brand-blue/5 hover:bg-brand-blue/20 transition-all duration-300 gap-2"
