@@ -102,7 +102,7 @@ const Hero = () => {
                 <span>LinkedIn</span>
               </a>
               <a 
-                href="https://drive.google.com/file/d/10Xtcq4w10F_-3nIeAIS5hGo5XS8YBsGt/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1q1bGZYHh1C5aS3i07PgaeevAzbrJDRTZ/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition-colors duration-200"
