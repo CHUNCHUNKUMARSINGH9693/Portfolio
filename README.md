@@ -489,8 +489,7 @@ This utility verifies:
 - **Specialization**: MERN Stack & AI-Powered Web Applications
 - **LinkedIn**: [linkedin.com/in/chunchun-kumar-singh](https://linkedin.com)
 - **GitHub**: [github.com/CHUNCHUNKUMARSINGH9693](https://github.com/CHUNCHUNKUMARSINGH9693)
-- **Portfolio**: https://chunchun-portfolio-zeta.vercel.app/
-
+- **Portfolio**: (https://chunchun-portfolio-zeta.vercel.app/)
 ---
 
 ## ⭐ Support
